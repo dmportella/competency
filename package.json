@@ -1,0 +1,48 @@
+{
+  "name": "competency",
+  "version": "1.0.0",
+  "description": "The ability to do something successfully or efficiently.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmportella/competency.git"
+  },
+  "keywords": [
+    "right",
+    "accurate",
+    "true",
+    "veracious",
+    "exact",
+    "precise",
+    "unerring",
+    "faithful",
+    "strict",
+    "faultless",
+    "flawless",
+    "errorless",
+    "error-free",
+    "perfect",
+    "word-perfect",
+    "scrupulous",
+    "meticulous",
+    "on the right track",
+    "along the right lines",
+    "OK",
+    "on the mark",
+    "on the beam",
+    "on the nail",
+    "on the button",
+    "spot on",
+    "bang on",
+    "on the money"
+  ],
+  "author": "dmportella",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dmportella/competency/issues"
+  },
+  "homepage": "https://github.com/dmportella/competency#readme"
+}
