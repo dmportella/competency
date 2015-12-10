@@ -1,3 +1,5 @@
 # Competency
 
-just install it.
+The ability to do something successfully or efficiently.
+
+Just do it!
